@@ -17,7 +17,7 @@ A custom-built ServiceNow Service Catalog item designed to streamline and automa
 ### 01. Catalog Item Definition
 The initial baseline configuration detailing the catalog routing, categorical assignment under "Can We Help You?", and user storefront presentation details.
 
-![Catalog Item Definition](01_Catalog_Item_Setup.png)
+![Catalog Item Definition](01_Catalog_Item_Definition.png)
 
 ### 02. Business Justification Variable
 Configuration of the multi-line text input field establishing validation logic for tracking required end-user business cases.
