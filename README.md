@@ -17,27 +17,27 @@ A custom-built ServiceNow Service Catalog item designed to streamline and automa
 ### 01. Catalog Item Definition
 The initial baseline configuration detailing the catalog routing, categorical assignment under "Can We Help You?", and user storefront presentation details.
 
-![](01_Catalog_Item_Definition.png)
+<img src="https://raw.githubusercontent.com/Jamaal239/servicenow-vdi-catalog-item/main/01_Catalog_Item_Definition.png" width="100%">
 
 ### 02. Business Justification Variable
 Configuration of the multi-line text input field establishing validation logic for tracking required end-user business cases.
 
-![](02_Variable_Justification.png)
+<img src="https://raw.githubusercontent.com/Jamaal239/servicenow-vdi-catalog-item/main/02_Variable_Justification.png" width="100%">
 
 ### 03. Access Level Variable Setup
 Design of the Select Box (dropdown menu) variable establishing the underlying script variable name `access_level`.
 
-![](03_Variable_Access_Level.png)
+<img src="https://raw.githubusercontent.com/Jamaal239/servicenow-vdi-catalog-item/main/03_Variable_Access_Level.png" width="100%">
 
 ### 04. Dropdown Choice Mapping
 Database architecture configuration mapping display values to logical data keys with explicit ordering numbers (100 and 200) to enforce sorting hierarchy.
 
-![](04_Dropdown_Choices.png)
+<img src="https://raw.githubusercontent.com/Jamaal239/servicenow-vdi-catalog-item/main/04_Dropdown_Choices.png" width="100%">
 
 ### 05. Live Form Front-End Testing
 End-to-end verification via the ServiceNow Service Portal interface, showcasing a fully responsive user form with placeholder text data validated and ready for checkout.
 
-![](05_Catalog_Item_Testing.png)
+<img src="https://raw.githubusercontent.com/Jamaal239/servicenow-vdi-catalog-item/main/05_Catalog_Item_Testing.png" width="100%">
 
 ---
 
